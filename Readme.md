@@ -8,6 +8,8 @@ I am following this blog post: https://becominghuman.ai/lets-build-an-atari-ai-p
 
 # Dependencies
 
+I am running a conda environment.
+
 Keras
   
     conda install keras
@@ -25,3 +27,6 @@ http://nbviewer.jupyter.org/github/patrickmineault/xcorr-notebooks/blob/master/R
     cd JSAnimation
     python setup.py install
     
+Matplotlib
+
+    conda install matplotlib
