@@ -10,6 +10,8 @@ I am following this blog post: https://becominghuman.ai/lets-build-an-atari-ai-p
 
 I am running a conda environment.
 
+Tensorflow
+
 Keras
   
     conda install keras
@@ -30,3 +32,15 @@ http://nbviewer.jupyter.org/github/patrickmineault/xcorr-notebooks/blob/master/R
 Matplotlib
 
     conda install matplotlib
+    
+ipywidgets
+
+    conda install -c conda-forge ipywidgets
+
+Tqdm
+    
+    conda install -c conda-forge tqdm
+    jupyter nbextension enable --py --sys-prefix widgetsnbextension
+
+
+    
