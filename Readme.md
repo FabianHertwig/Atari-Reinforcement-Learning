@@ -14,7 +14,7 @@ Tensorflow
 
 Keras
   
-    conda install keras
+    pip install keras
   
 
 The openAi gym with atari dependencies
@@ -43,4 +43,5 @@ Tqdm
     jupyter nbextension enable --py --sys-prefix widgetsnbextension
 
 
+    pip install import_ipynb
     
